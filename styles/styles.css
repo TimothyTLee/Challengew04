@@ -1,0 +1,69 @@
+body {background-color: rgb(250, 118, 140);
+}
+
+nav {text-align: center;
+font-size: 70px;
+font-weight:900;
+color: white;
+padding-top: 1.5em;
+padding-bottom: .5em;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:hover {
+background-color: white;
+color: black;
+}
+
+h3 {width: 30%;
+margin: 0 auto;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: white;
+padding-bottom: 1.5em;
+padding-top: .5em;
+text-align: center;
+}      
+
+header p {text-align: center;
+width: 100%;
+margin: 0 auto;
+color: white;
+padding-bottom: 1em;;
+padding-top: 1em;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+main p {text-align: center;
+color: white;
+font-size: 25px;
+width: 30%;
+margin: 0 auto;
+padding-bottom: 1em;
+}
+
+img {display:block;
+margin-left: auto;      
+margin-right: auto;
+width: 30%; 
+text-align: center;  
+padding-top: 2em; 
+padding-bottom: 2em;
+}
+
+ol {text-align: left;
+width: 28%;
+margin: 0 auto;
+font-weight: bolder;
+font-size: 22px;
+padding-bottom: 1em;
+font-family: Georgia, 'Times New Roman', Times, serif;
+line-height: 2em;
+}
+
+footer {text-align: center;
+font-size: 25px;
+padding-bottom: 2em;
+width: 28%;
+margin: 0 auto;
+font-weight: bolder;
+}
